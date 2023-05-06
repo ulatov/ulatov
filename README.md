@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 How it's going?
 
 <!--
 **ulatov/ulatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
